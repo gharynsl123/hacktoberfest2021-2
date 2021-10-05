@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>audio player</title>
+</head>
+
+<style>
+	
+	body {
+		background-color: #000000
+		color:white;
+		font-weight: bold;
+		font-family: sans-serif;
+	}
+
+	h1{
+		color: gray;
+	}
+
+</style>
+<body>
+  <h1>hey everyone!!!!</h1>
+</body>
+</html>
